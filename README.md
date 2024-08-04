@@ -1,2 +1,2 @@
-# portfolio
-created a simple portfolio using html,css and javascript
+# codsoft-task1
+a simple portfolio task
